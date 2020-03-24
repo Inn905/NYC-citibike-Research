@@ -1,4 +1,5 @@
 # NYC-citibike-Research
+All HTML files are data analysis export files using jupyter notebook (python)
 ## BaiduAPI.html
 * Using Baidu API, using his own road planning, calculate the distance and time of walking, driving, and public transportation from the start to the end.  
 * problem:  
