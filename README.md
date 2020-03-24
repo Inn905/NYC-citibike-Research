@@ -7,7 +7,7 @@ The distance calculated using the Baidu API will obviously be more scientific, a
 However, due to the quota limit of Baidu API, foreign route planning can only do 400 data a day, obviously not enough.  
 Therefore, the following calculations are temporarily performed using Euclidean distance.  
 
-## [carbon dioxide.html](https://inn905.github.io/NYC-citibike-Research/HTML/carbon dioxide.html)
+## [carbon dioxide.html](https://inn905.github.io/NYC-citibike-Research/HTML/carbon%20dioxide%20.html)
 * Method for calculating carbon emissions of bicycles.  
 The program only uses gasoline for the time being, which means that all bicycles are replaced with car-type carbon emission factors.  
 * problem:  
@@ -31,3 +31,7 @@ Then I found that the correlation between the weather is quite strong. I plan to
 * problem:  
 The weather data is from March 2013 to March 2019, some are missing in the middle and have not been processed yet.  
 The experiment was done in March 2017.  
+
+## Update
+* [Weather_Year](https://inn905.github.io/NYC-citibike-Research/HTML/weather_year.html)
+* [YellowTaxi_weather](https://inn905.github.io/NYC-citibike-Research/HTML/YellowTaxi_weather.html)
